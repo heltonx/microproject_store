@@ -12,7 +12,7 @@ int acumulator ( ) {
 	
 	int option = 1 ;
 	float total ;
-	float value;
+	float value ;
 	
 	do {
 	
