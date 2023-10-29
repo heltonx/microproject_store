@@ -11,7 +11,7 @@ This is a minimalist project to do a little store purchase system with just his 
 int acumulator ( ) {
 	
 	int option = 1 ;
-	float total;
+	float total ;
 	float value;
 	
 	do {
