@@ -27,7 +27,6 @@ int acumulator ( ) {
 	
 	} while ( option == 1 ) ;
     
-    
     printf ( "Total of your purchase: " ) ;
     printf ( "%f" , total ) ;
     
