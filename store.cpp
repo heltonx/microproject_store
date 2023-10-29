@@ -36,7 +36,7 @@ int acumulator ( ) {
 
 int main ( void ) {
 	
-	printf("Welcome to the Market \n");
+	printf ( "Welcome to the Market \n" ) ;
 	acumulator();
 	
 
