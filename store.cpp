@@ -16,7 +16,7 @@ int acumulator ( ) {
 	
 	do {
 	
-	printf ("Type the value of the product"); //accept float values
+	printf ( "Type the value of the product" ) ; //accept float values
 	scanf("%f",&value);
 	total = total + value;
 	
