@@ -23,7 +23,7 @@ int acumulator ( ) {
 	system ( "cls" ) ; 
 	
 	printf ( "\nAdd new products to purchase? 1 - Yeah ; 2 - Nope \n" ) ;
-	scanf ("%d",&option);
+	scanf ( "%d" , &option ) ;
 	
 	} while (option == 1);
     
