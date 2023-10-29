@@ -31,7 +31,7 @@ int acumulator ( ) {
     printf ( "Total of your purchase: " ) ;
     printf ( "%f" , total ) ;
     
-    printf ("\nThank you, be welcome to return again");
+    printf ( "\nThank you, be welcome to return again" ) ;
 }
 
 int main (void){
