@@ -39,8 +39,6 @@ int main ( void ) {
 	printf ( "Welcome to the Market \n" ) ;
 	acumulator();
 	
-
-	
 	return 0;
 }
 
