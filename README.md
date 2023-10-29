@@ -1,2 +1,2 @@
 # microproject_store
-Micro Project Series: little small town store purchase system.
+Micro Project Series: little small town store purchase C system. Developed in Windows.
