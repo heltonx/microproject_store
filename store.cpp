@@ -17,10 +17,10 @@ int acumulator ( ) {
 	do {
 	
 	printf ( "Type the value of the product" ) ; //accept float values
-	scanf("%f",&value);
+	scanf ( "%f" , &value ) ;
 	total = total + value;
 	
-	system("cls"); 
+	system ( "cls" ) ; 
 	
 	printf ("\nAdd new products to purchase? 1 - Yeah; 2 - Nope \n");
 	scanf ("%d",&option);
