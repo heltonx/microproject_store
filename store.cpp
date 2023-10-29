@@ -25,7 +25,7 @@ int acumulator ( ) {
 	printf ( "\nAdd new products to purchase? 1 - Yeah ; 2 - Nope \n" ) ;
 	scanf ( "%d" , &option ) ;
 	
-	} while (option == 1);
+	} while ( option == 1 ) ;
     
     
     printf ("Total of your purchase: ");
